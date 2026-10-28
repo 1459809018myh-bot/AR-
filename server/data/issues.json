@@ -1,0 +1,16 @@
+[
+  {
+    "id": "iss_9442254dc9",
+    "title": "入口墙面破损",
+    "description": "左侧墙体存在裂缝",
+    "priority": "high",
+    "status": "in_progress",
+    "position": {
+      "x": 0.42,
+      "y": 0.03,
+      "z": 1.26
+    },
+    "createdAt": "2026-10-27T03:47:59.037Z",
+    "updatedAt": "2026-10-27T03:56:40.301Z"
+  }
+]
